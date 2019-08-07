@@ -1,5 +1,10 @@
 # JavaScript-Basics2-CW
 
+INCOMPLETE
+Even if you don't finish your work PLEASE push what you have completed by 1pm for the monring or 5pm for the afternoon. You can get partial credit!
+If you have trouble cloning or pushing your assignment ask Kenn, Kevin, or Autumn for help.
+SCORE : 0
+
 ### Question 1
 Create two variables. One should equal “My name is: “ and the other should equal your name. Print the two variables in one print message.
 
